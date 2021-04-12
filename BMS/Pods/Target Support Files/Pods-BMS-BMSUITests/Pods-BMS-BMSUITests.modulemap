@@ -1,0 +1,6 @@
+framework module Pods_BMS_BMSUITests {
+  umbrella header "Pods-BMS-BMSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
